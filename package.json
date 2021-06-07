@@ -1,0 +1,25 @@
+{
+  "name": "todo-list",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "todolist.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamandakuntz/node-todolist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hamandakuntz/node-todolist/issues"
+  },
+  "homepage": "https://github.com/hamandakuntz/node-todolist#readme",
+  "description": ""
+}
